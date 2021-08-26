@@ -1,0 +1,18 @@
+.gameStyle {
+    margin-bottom: 10px;
+}
+
+
+.loadingsymbol {
+    border: 14px dotted rgb(69, 114, 129);
+    border-top: 14px dotted white;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2.5s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg);}
+    100% { transform: rotate(360deg);}
+}

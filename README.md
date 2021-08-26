@@ -1,1 +1,1 @@
-# -rjan-gr-ttvedt-berger-js1-ma3
+This is an module assignment for Javascript 1 in Noroff Front End Development class.
